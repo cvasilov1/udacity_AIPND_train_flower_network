@@ -104,3 +104,4 @@ ENV/
 
 # the dataset folder (over 8000 images)
 dataset/
+flowers/

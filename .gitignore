@@ -105,3 +105,6 @@ ENV/
 # the dataset folder (over 8000 images)
 dataset/
 flowers/
+
+#remove the best_model checkpoint (but leave the final_best_model)
+best_model.pth
